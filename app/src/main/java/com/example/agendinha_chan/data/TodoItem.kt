@@ -1,4 +1,4 @@
-package com.example.agendinha_chan.ui.home
+package com.example.agendinha_chan.data
 
 import java.time.LocalTime
 

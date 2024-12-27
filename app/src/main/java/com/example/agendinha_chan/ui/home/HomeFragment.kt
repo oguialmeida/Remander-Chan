@@ -8,6 +8,8 @@ import android.view.inputmethod.EditorInfo
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.agendinha_chan.databinding.FragmentHomeBinding
+import com.example.agendinha_chan.adapters.TodoAdapter
+import com.example.agendinha_chan.data.TodoItem
 
 class HomeFragment : Fragment() {
 
